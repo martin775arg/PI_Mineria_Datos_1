@@ -10,8 +10,8 @@
 * **Integrantes:** 
   * Carrizo, José Luis
   * Barraza, José Martín
-* **Enlace a la aplicación pública:** [Tablero de Streamlit Cloud](https://share.streamlit.io/) *(Reemplazar con tu enlace funcional)*
-* **Enlace al repositorio público:** [Repositorio GitHub](https://github.com/) *(Reemplazar con tu enlace funcional)*
+* **Enlace a la aplicación pública:** [Tablero de Streamlit Cloud](https://share.streamlit.io/)
+* **Enlace al repositorio público:** [Repositorio GitHub](https://github.com/martin775arg/PI_Mineria_Datos_1)
 
 ---
 
