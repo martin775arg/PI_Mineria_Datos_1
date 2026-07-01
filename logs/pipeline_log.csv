@@ -1,0 +1,11 @@
+Paso,Descripción,Filas,Nulos,Retención (%)
+Estado Inicial,Carga del dataset crudo sin modificaciones,8160,753,100.0
+1. Conversión Datetime,Transformación de last_login_date de object a datetime,8160,1202,100.0
+2. Imputación Categórica,Imputación de nulos en favorite_genre con 'No Declarado',8160,962,100.0
+3. Imputación Numérica,Imputación de nulos en watch time usando la mediana (757.4 mins),8160,769,100.0
+4. Eliminación de Filas,Remoción de registros con last_login_date nulo por falta de trazabilidad,7391,0,90.58
+2026-06-28 15:01:23,8160,7807,Exitoso
+2026-06-28 15:03:57,8160,7807,Exitoso
+2026-06-28 15:29:50,8160,7807,Exitoso
+2026-06-28 15:33:07,8160,7807,Exitoso
+2026-06-28 15:36:57,7807,Exitoso_Con_JSON_Completo
