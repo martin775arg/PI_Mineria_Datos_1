@@ -66,12 +66,12 @@ Ubicado en 04_pca.ipynb, se documentó el uso del Análisis de Componentes Princ
 ## ●Visualización interactiva
 La comunicación de resultados se implementó en una aplicación pública desplegada en Streamlit Cloud[cite: 1]. El tablero incluye:
 
-Home: Presentación, integrantes y enlace directo al repositorio de GitHub[cite: 1].
+Home: Presentación, integrantes y enlace directo al repositorio de GitHub.
 
-Dataset: Descripción de variables, resumen de calidad y mención de transformaciones[cite: 1].
+Dataset: Descripción de variables, resumen de calidad y mención de transformaciones.
 
-EDA: Exactamente 5 gráficos interactivos (2 univariados, 2 bivariados, 1 multivariado) acompañados de su respectiva interpretación técnica[cite: 1].
+EDA: Exactamente 5 gráficos interactivos (2 univariados, 2 bivariados, 1 multivariado) acompañados de su respectiva interpretación técnica.
 
-PCA: Explicación de variables, escalamiento, varianza acumulada y gráficos asociados[cite: 1].
+PCA: Explicación de variables, escalamiento, varianza acumulada y gráficos asociados.
 
-Conclusiones: Reporte dinámico orientado al público general[
+Conclusiones: Reporte dinámico orientado al público general
