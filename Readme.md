@@ -64,7 +64,7 @@ Desarrollado en 03_eda.ipynb, el análisis abarcó visualizaciones univariadas, 
 Ubicado en 04_pca.ipynb, se documentó el uso del Análisis de Componentes Principales. El proceso inició seleccionando las variables numéricas adecuadas y aplicando un escalamiento y estandarización estadística indispensable para el algoritmo. Se calculó el porcentaje de varianza explicada por cada componente para definir el número óptimo de dimensiones. El resultado permite simplificar la estructura de los datos interpretando el peso y propósito de cada componente dentro del análisis global.
 
 ## ●Visualización interactiva
-La comunicación de resultados se implementó en una aplicación pública desplegada en Streamlit Cloud[cite: 1]. El tablero incluye:
+La comunicación de resultados se implementó en una aplicación pública desplegada en Streamlit Cloud. El tablero incluye:
 
 Home: Presentación, integrantes y enlace directo al repositorio de GitHub.
 
